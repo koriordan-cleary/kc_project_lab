@@ -2,3 +2,6 @@ On the beach
 testing
 for 
 git
+adding
+more lines
+of text
